@@ -37,9 +37,3 @@
 .squaredFour label:hover::after {
   opacity: 0.5;
 }
-.squaredFour input[type=checkbox] {
-  visibility: hidden;
-}
-.squaredFour input[type=checkbox]:checked + label:after {
-  opacity: 1;
-}
