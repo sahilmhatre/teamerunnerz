@@ -1,0 +1,127 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.designation-details-background{
+	
+	background-color: #bfc7f0;
+	width:90%;
+	margin:0 auto;
+	overflow:hidden;
+	border-radius:5px;
+	
+}
+.designation-info-row
+{
+	width:95%;
+	margin:1.8% auto;
+	overflow:hidden;
+}
+.designation-detail-info-container
+{
+	width:25%;
+	
+	float:left;
+	
+}
+.designationinfo1
+{
+	width:95%;
+margin:0 auto;
+	padding:1% 0%;
+	
+	overflow:hidden;
+	background-color: #cbd1ec;
+	border-radius: 5px;	
+	
+}
+.designation-image-container
+{
+	width:30%;
+	float:left;
+	
+	
+}
+.designation-image
+{
+	width:90%;
+	
+	margin:0 auto;
+}
+.employee-designation-image
+{
+	width:100%;
+	transform:translateY(10%;);
+}
+.designation-detail-info
+{
+	width:68%;
+	padding:0.5%;
+	
+	float:left;
+}
+.designation-name
+{
+	width:100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:15px;
+	line-height:17px;
+	
+}
+.last-updated-by
+{
+	width:100%;
+	font-family: Arial, Helvetica, sans-serif;
+	
+	font-size:11px;
+	line-height:16px;
+	font-weight:bold;
+	 font-style: italic;
+}
+.last-updated-time
+{
+	width:100%;
+	font-family: Arial, Helvetica, sans-serif;
+	
+	font-size:11px;
+	line-height:16px;
+	font-weight:bold;
+	 font-style: italic;
+}
+.last-update-idcheckbox
+{
+	width:100%;
+	
+}
+.last-updated-id
+{
+	width:90%;
+	float:left;
+
+	font-family: Arial, Helvetica, sans-serif;
+	
+	line-height:16px;
+	font-size:11px;
+	font-weight:bold;
+	 font-style: italic;
+}
+.last-updated-checkbox
+{
+	width:10%;
+	float:left;
+	
+	
+}
+.designationcheckbox
+{
+	
+width: 15px;
+    height: 15px;
+	
+}
+.designationgap
+{
+	margin:3%;
+}
